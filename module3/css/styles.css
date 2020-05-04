@@ -25,6 +25,12 @@
   font-size: 1.8em;
 }
 
+hr.divider { 
+   margin-top: 0em;
+   margin-bottom: 0em;
+   border-width: 2px;
+} 
+
 
 .col-xs-12 {
 	background-color: #fff111;
